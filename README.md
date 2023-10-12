@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Контейнеры»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/pxmv3ls6gmph4scn?svg=true)](https://ci.appveyor.com/project/darknessdizi/javascript-8-set-task-1)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
